@@ -32,6 +32,6 @@ Once you've generated an image, you can easily share it with others using the un
 
 
 
-<h2>🎉 Create unique images with DALL-E Clone and let your imagination run wild! 🌈 </h2> 
+<h2>🎉 Create unique images with DALL-E Clone and let your imagination run wild! </h2> 
 
 Download and share your creations with others and let the world see your vision.
